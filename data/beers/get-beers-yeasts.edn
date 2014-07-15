@@ -1,0 +1,1 @@
+{:curl "curl -v -H 'Authorization: XYZBearer token' 'http://host:1234/beers/yeasts'", :path "beers/yeasts", :id "get-beers-yeasts", :codex {:body-res nil, :success-code 200, :content-type nil}, :doc "Get yeasts", :uri "http://host:1234/beers/yeasts", :headers {"Authorization" "psv+Bearer token"}, :method "get"}
